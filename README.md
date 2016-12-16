@@ -2,7 +2,7 @@
 
 首先进入文件夹
 
-```cd fizz-buzz```
+``$ `cd fizz-buzz```
 
 如果未安装过 test-unit，需要先安装一下
 
